@@ -103,7 +103,7 @@ No need to give the job a name, so **click Submit**. You will receive an email o
 
 #### Run XSLT Code
 
-Open both the downloaded DC bib `.xml` file and the [Split_Single_to_Multiple_XML_Files.xsl file](Preservica/Split_Single_to_Multiple_XML_Files.xsl) in Oxygen XML Editor. Select where you want the individual files saved. I'd recommend saving local instead of the Preservica server folder. **Click the "Run to End"** button![down arrow](help_files/down_arrow.png)
+Open both the downloaded DC bib `.xml` file and the [Split_Single_to_Multiple_XML_Files.xsl file](/Split_Single_to_Multiple_XML_Files.xsl) in Oxygen XML Editor. Select where you want the individual files saved. I'd recommend saving local instead of the Preservica server folder. **Click the "Run to End"** button![down arrow](help_files/down_arrow.png)
 
 ![Oxygen Setup](help_files/XSTL_Setup2.png)
 
