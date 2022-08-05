@@ -16,7 +16,7 @@ Davidson College is exporting metadata records from Alma to ingest content into 
 
 ### Download and Transform Bulk
 
-Bulk export from Alma and splitting into multiple XML files after XSL transformation is the preferred method as it speeds the process up quite a bit. 
+Bulk export from Alma and splitting into multiple XML files after XSL transformation is the preferred method as it speeds the process up quite a bit.
 
 #### Create Analysis in Alma Analytics
 
@@ -118,21 +118,18 @@ Since the XSL created single XML files for ingest, you now need to rename these 
 Copy the file name from one of the media files:
 
 ![Copy file name](/Preservica/help_files/Rename_Multi_Files_Copy.png)
-*Copy File Name*
 
 Rename `fileX.xml`and paste the copied text and edit the `.xml` with `.metadata`
 
 ![Paste file name](help_files/Rename_Multi_Files_Paste.png)
-*Paste file name*
 
 ![change xml to metadata](help_files/Rename_Multi_Files_MetadataXML.png)
-*Change to `.metadata`*
 
 Open the newly named `.metadata` file and make sure the `dc:type` matches the media it's for. This is the only `dc` field that will need to be updated. Typical names are:
 
 - V and .mp4 for `MovingImage`
 - A and .mp3 or .m4a for `Sound`
-- T and .pdf or .doc for `Text` 
+- T and .pdf or .doc for `Text`
 
 ![type of media](help_files/Rename_Multi_Files_Type.png)
 
@@ -157,7 +154,7 @@ Continue through the list of transformed `.xml` files from the `.xsl` using this
 
 The DC XML file is obtained through the ["Download BIB" Cloud Apps in Alma](https://developers.exlibrisgroup.com/blog/how-to-install-and-use-the-download-bib-cloud-app/).
 
-![Download BIB Cloud Apps](help_files/Download-BIB_CloudApps.png "Download BIB Cloud Apps")
+![Download BIB Cloud Apps](help_files/Download-BIB_CloudApps.png)
 
 #### XSLT Code
 
