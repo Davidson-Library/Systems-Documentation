@@ -24,19 +24,19 @@ Click on **Analytics** then **Design Analytics** to open the Oracle Dashbaord.
 
 ![Design Analytics link](help_files/Analytics_Design.png)
 
-Click on **Catalog** then navigate to the **Alma Digital shared folder** and edit the analysis titled **"Digital Title Set Creation Template"**
+Click on **Catalog** then navigate to the **Alma Digital shared folder** and **click edit** of the analysis titled **"Digital Title Set Creation Template"**
 
 ![Catalog and Folder Directory](help_files/Analytics_Edit_Template.png)
 
-It will default show you results, so click the **Critera** tab at the top-left. Then **click the gear** to apply a filter.
+It will by default show you the results, so click the **Critera** tab at the top-left. Then **click the gear** next to the "Collection Name" column to apply a filter.
 
-[Criteria Apply Filter](help_files/Analytics_Edit_Filter.png)
+![Criteria Apply Filter](help_files/Analytics_Edit_Filter.png)
 
 Click on the magnifying glass icon to open up the available filter for "Collection Name."
 
 ![Search Collection Name Magnifying Glass](help_files/Analytics_Edit_Filter_Search.png)
 
-**Search for the Collection Name title** and either **double click it** or click it once before **clicking the `>`** to populate the "Selected" box with the collection you want a set for. Finally, **click OK twice.**
+**Search for the Collection Name title** and either **double click it** or **click it once** before **clicking the `>`** to populate the "Selected" box with the collection you want to filter for a set. Finally, **click OK twice.**
 
 ![Select Collection to Filter](help_files/Analytics_Edit_Filter_Select.png)
 
@@ -44,7 +44,7 @@ The Filters panel will show the collection name. Once you confirm the collection
 
 ![Confirm Collection Name](help_files/Analytics_Edit_Filter_Confirm.png)
 
-You'll then see a table with PIDs and Collection Names. Now you will **Save As** a new analysis to keep the template empty of filters. Save it as the Collection Name Set, e.g., Irving Bienstock project Set. This may go into a sub folder of sets?
+You'll then see a table with PIDs and Collection Names. Now you will **Save As** a new analysis to keep the template empty of filters. Save it as the Collection Name Set, e.g., Irving Bienstock project Set. *This may go into a sub folder of sets?*
 
 ![Save As Set](help_files/Analytics_Edit_Filter_SaveAs_Set.png)
 
@@ -91,7 +91,7 @@ Everything else can be left as is. **Click Next**.
 
 ![Job Parameters](help_files/Job_Parameters.png)
 
-No need to give the job a name, so **click Submit**. You will receive an email once the job is complete (quick depending on size of collection/set). Click the History tab and then the report link.
+No need to give the job a name, so **click Submit**. You will receive an email once the job is complete (quick depending on size of collection/set). **Click the History tab** and then the **report link**.
 
 ![Job Success](help_files/Job_Success.png)
 
@@ -99,12 +99,15 @@ No need to give the job a name, so **click Submit**. You will receive an email o
 
 ![Link to XML](help_files/Job_Bibs.png)
 
-**Click the `.xml` bibliographic link** to download the file. It should download to wherever your downloads directory is. Now you can run the XSLT to copy each record to an individual `.xml` file for ingest to Preservica.
+**Click the `.xml` bibliographic link** to download the file. It should download to wherever your downloads directory is. Now you can run the XSLT to copy each record from the `.xml` file into individual `.xml` files for ingest to Preservica.
 
 #### Run XSLT Code
 
-Open both the downloaded DC bib `.xml` file and the [Split_Single_to_Multiple_XML_Files.xsl file](./Split_Single_to_Multiple_XML_Files.xsl) in Oxygen XML Editor. Select where you want the individual files saved. I'd recommend saving local instead of the Preservica server folder. **Click the "Run to End"** button![down arrow](help_files/down_arrow.png)
-
+- Open both the downloaded DC bib `.xml` file and the [Split_Single_to_Multiple_XML_Files.xsl file](./Split_Single_to_Multiple_XML_Files.xsl) in Oxygen XML Editor.
+- Click the XSLT Debugger perspective button
+![XSLT Debugger View](help_files/Rename_XSLT_Debugger.png)
+- Make sure you have the two files selected (exported `.xml` file and `.xsl` file).
+- Select where you want the individual files saved. I'd recommend saving local instead of the Preservica server folder. **Click the "Run to End"** button
 ![Oxygen Setup](help_files/XSTL_Setup2.png)
 
 The files will now appear in the Output directory you selected.
@@ -113,13 +116,21 @@ The files will now appear in the Output directory you selected.
 
 #### Rename XML Files for Media
 
-Since the XSL created single XML files for ingest, you now need to rename these to match the media files exactly, with the additional `.metadata`, e.g., `OHI-0357_V_ShowersCharlesO_20220310.mp4.metadata`
+Since the `.xslt` created single `.xml` files, you now need to rename these to match the media files exactly, with the additional `.metadata`, e.g., `OHI-0357_V_ShowersCharlesO_20220310.mp4.metadata` This is what Preservica requires.
 
-Copy the file name from one of the media files:
+I recommend going back to the XML Editor perspective for a fuller screen of the long  `.xml` file.
 
-![Copy file name](/Preservica/help_files/Rename_Multi_Files_Copy.png)
+![Editor View](help_files/Rename_XSLT_Editor.png)
 
-Rename `fileX.xml`and paste the copied text and edit the `.xml` with `.metadata`
+The new list of files e.g., `file1-40.xml` are in the same order as they appear in the main `.xml` file exported from Alma. Scroll through that file to target the newly transformed individual files and match it with the `fileX.xml`. The easiest way is to find the OHI in the `<dc:identifier>` field.
+
+![OHI ID](help_files/Rename_OHI_ID.png)
+
+Copy the file name from one of the media files that match the OHI ID
+
+![Copy file name](help_files/Rename_Multi_Files_Copy.png)
+
+Rename `fileX.xml` and paste the copied text and edit the `.xml` with `.metadata`
 
 ![Paste file name](help_files/Rename_Multi_Files_Paste.png)
 
@@ -141,9 +152,9 @@ Rename the file (typical examples above). Oxygen Editor will add `.xml` after th
 
 ![rename file](help_files/Rename_Multi_Files.png)
 
-If there's one (1) Audio, one (1) Video, and one (1) Transcript, there should be three (3) metadata files, totalling six (6) files.
+If there's one (1) Audio, one (1) Video, and one (1) Transcript media, there should be three (3) metadata files, totalling six (6) files.
 
-![3 metadata files](/Preservica/help_files/Rename_3_Files.png)
+![3 metadata files](help_files/Rename_3_Files.png)
 ![3 media files](help_files/Rename_3_Files_Media.png)
 
 Continue through the list of transformed `.xml` files from the `.xsl` using this method.
