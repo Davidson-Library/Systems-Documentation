@@ -10,6 +10,7 @@ Davidson College is exporting metadata records from Alma to ingest content into 
   - [Run "Export Digital Titles" Job](#run-export-digital-titles-job)
   - [Run XSLT Code](#run-xslt-code)
   - [Rename XML Files for Media](#rename-xml-files-for-media)
+- [Ingest Files along with Metadata into Preservica [TDB]](#ingest-files-along-with-metadata-into-preservica-tdb)
 - [Download and Transform Individual Files](#download-and-transform-individual-files)
   - [How to Obtain the DC XML Record](#how-to-obtain-the-dc-xml-record)
   - [XSLT Code](#xslt-code)
@@ -158,6 +159,8 @@ If there's one (1) Audio, one (1) Video, and one (1) Transcript media, there sho
 ![3 media files](help_files/Rename_3_Files_Media.png)
 
 Continue through the list of transformed `.xml` files from the `.xsl` using this method.
+
+### Ingest Files along with Metadata into Preservica [TDB]
 
 ### Download and Transform Individual Files
 
