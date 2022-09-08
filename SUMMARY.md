@@ -17,5 +17,4 @@
 * [Alma Digital](alma-digital/README.md)
   * [Syllabi](alma-digital/syllabi/README.md)
     * [Syllabi Approval Process](<Alma Digital/Syllabi/Tango-Import.md>)
-* [Alma Digital](alma-digital-1/README.md)
-  * [Syllabi Procedure](<Alma Digital/Syllabi/readme.md>)
+  * [Syllabi Subcollection Setup in Alma](alma-digital/syllabi-1.md)
