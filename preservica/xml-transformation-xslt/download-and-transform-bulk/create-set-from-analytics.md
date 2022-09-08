@@ -6,7 +6,7 @@ Now that the collection has been saved as an analysis, you can create a set "Fro
 
 **Click Add Set** then **Itemized**
 
-![Add Set](../../../help\_files/Analytics\_Create\_Set.png)
+![Add Set](../../../.gitbook/assets/Analytics\_Create\_Set.png)
 
 Give the set a name (probably the name of the collection), **select Digital titles** from the "Set content type" dropdown, and **select From Analytics.** Alma will take a bit to process all the directories in analytics. Now's a good time for a stretch 🙆‍♀️ or coffee :coffee: (seriously).
 
