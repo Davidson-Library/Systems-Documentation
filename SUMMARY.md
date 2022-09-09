@@ -2,7 +2,7 @@
 
 * [Systems-Documentation](README.md)
 * [Preservica](preservica/README.md)
-  * [Dublin Core XML Transformation into Preservica-ready XML](preservica/xml-transformation-xslt/README.md)
+  * [Alma Dublin Core XML Transformation into Preservica-ready XML](preservica/xml-transformation-xslt/README.md)
     * [Download and Transform Bulk](preservica/xml-transformation-xslt/download-and-transform-bulk/README.md)
       * [Create Analysis in Alma Analytics](preservica/xml-transformation-xslt/download-and-transform-bulk/create-analysis-in-alma-analytics.md)
       * [Create Set From Analytics](preservica/xml-transformation-xslt/download-and-transform-bulk/create-set-from-analytics.md)
