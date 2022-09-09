@@ -11,8 +11,6 @@
       * [Rename XML Files for Media](preservica/alma-dublin-core-xml-transformation-into-preservica-ready-xml/download-and-transform-bulk/rename-xml-files-for-media.md)
     * [Download and Transform Individual Files](preservica/alma-dublin-core-xml-transformation-into-preservica-ready-xml/download-and-transform-individual-files.md)
     * [Ingest Files along with Metadata into Preservica \[TDB\]](preservica/alma-dublin-core-xml-transformation-into-preservica-ready-xml/ingest-files-along-with-metadata-into-preservica-tdb.md)
-  * [Download and Transform Individual Files](preservica/download-and-transform-individual-files.md)
-  * [Ingest Files along with Metadata into Preservica \[TDB\]](preservica/ingest-files-along-with-metadata-into-preservica-tdb.md)
 * [Alma Digital](alma-digital/README.md)
   * [Syllabi](alma-digital/syllabi/README.md)
     * [Simple Deposits](alma-digital/syllabi/simple-deposits.md)
