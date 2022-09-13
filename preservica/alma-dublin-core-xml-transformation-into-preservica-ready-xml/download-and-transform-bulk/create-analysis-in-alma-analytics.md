@@ -2,7 +2,7 @@
 
 Click on **Analytics** then **Design Analytics** to open the Oracle Dashbaord.
 
-![Design Analytics link](./Preservica/help_files/Analytics_Design.png)
+![Design Analytics link](../preservica/help_files/Analytics_Design.png)
 
 Click on **Catalog** then navigate to the **Alma Digital shared folder** and **click edit** of the analysis titled **"Digital Title Set Creation Template"**
 
