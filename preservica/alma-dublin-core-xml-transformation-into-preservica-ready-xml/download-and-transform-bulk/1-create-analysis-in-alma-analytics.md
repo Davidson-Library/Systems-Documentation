@@ -8,7 +8,7 @@ Click on **Catalog** then navigate to the **Alma Digital shared folder** and **c
 
 ![Catalog and Folder Directory](../help_files/Analytics\_Edit_Template.png)
 
-It will by default show you the results, so click the **Critera** tab at the top-left. Then **click the gear** next to the "Collection Name" column to apply a filter.
+It will by default show you the results, so click the **Criteria** tab at the top-left. Then **click the gear** next to the "Collection Name" column to apply a filter.
 
 ![Criteria Apply Filter](../help_files/Analytics_Edit_Filter.png)
 
