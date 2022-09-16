@@ -15,7 +15,7 @@
 **Change** the following parameters:
 
 1. Target format = `OAI DC`
-2. Bibliographic reford formats to include = `Dublin Core`
+2. Bibliographic record formats to include = `Dublin Core`
 
 Everything else can be left as is. **Click Next**.
 

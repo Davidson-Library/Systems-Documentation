@@ -1,6 +1,6 @@
 # Create Analysis in Alma Analytics
 
-Click on **Analytics** then **Design Analytics** to open the Oracle Dashbaord.
+Click on **Analytics** then **Design Analytics** to open the Oracle Dashboard.
 
 ![Design Analytics link](../help_files/Analytics_Design.png "Design Analytics Link")
 
