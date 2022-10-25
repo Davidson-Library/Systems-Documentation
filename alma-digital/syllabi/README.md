@@ -2,64 +2,19 @@
 
 ## Description
 
-There are five tracks in this workflow, marked by # in the step title.
+Davidson College Library collects course syllabi through user-deposits in Alma. This empowers users in the metadata creation process and it alleviates processing time for library workers. Alma Digital (know as Digital Davidson) is a centralized place for current students, faculty, and staff to view past syllabi for a variety of purposes, e.g., curriculum assessment, text analysis, course planning, and accreditation. This section of the documentation is intended for those processing syllabi in Alma (library workers). 
 
-* [Setup in Alma](broken-reference)
-  * [Click on Deposits under Tasks](broken-reference)
-  * [Click on Unassigned](broken-reference)
-  * [Click on the first Title link, e.g., SOC 347: Transnationalism](broken-reference)
-  * [Verify the Title follows the following pattern ABC 101: Course Title](broken-reference)
-* [Simple Deposit Track](broken-reference)
-  * [Click on the Record tab](broken-reference)
-  * [Check Access Rights Statement(s)](broken-reference)
-  * [Click on Approve](broken-reference)
-* [Missing/Incomplete Title](broken-reference)
-  * [Click on Alma Viewer](broken-reference)
-  * [Click on CLOSE & VIEW](broken-reference)
-  * [Copy Complete Course Info](broken-reference)
-  * [Click on Cancel](broken-reference)
-  * [Click on Record](broken-reference)
-  * [Click on Edit Record](broken-reference)
-  * [Fix/Paste Complete Course Info](broken-reference)
-  * [Click on the down-triangle next to Save](broken-reference)
-  * [Click on Save and Release Record](broken-reference)
-  * [Select the items you want to bulk approve](broken-reference)
-  * [Click on Process Selected](broken-reference)
-  * [Click on Approve](broken-reference)
-  * [Verify with the pop-up message "X Deposit(s) approved successfully"](broken-reference)
-* [Conflicting Access Rights Statements](broken-reference)
-  * [Click on Return](broken-reference)
-  * [Click on Conflicting access statements](broken-reference)
-  * [Copy/Paste text below into text area in Alma](broken-reference)
-  * [Click on Return](broken-reference)
-  * [Verify "Returned" Status](broken-reference)
-* [Admissions Access in MD Record](broken-reference)
-  * [Admissions Access Rights Statement](broken-reference)
-  * [Click on Inventory](broken-reference)
-  * [Click on Edit Representation](broken-reference)
-  * [Click on X](broken-reference)
-  * [Click on Syllabi\_Admissions: View and Download (special permissions)](broken-reference)
-  * [Click on Save](broken-reference)
-  * [Click on Approve](broken-reference)
-*   [Opt-out](broken-reference)
+## Table of Contents
 
-    * [Click on Inventory](broken-reference)
-    * [Click on Edit Representation](broken-reference)
-    * [Select Syllabi\_Opt-out: View and Download (special permissions)](broken-reference)
-    * [Click on Save](broken-reference)
-    * [Click on Approve](broken-reference)
+There are five tracks in this workflow:
 
-    **Date:** April 13, 2022
+- [Simple Deposit Track](#simple-deposit-track)
+- [Missing/Incomplete Title](#missingincomplete-title)
+- [Conflicting Access Rights Statements](#conflicting-access-rights-statements)
+- [Admissions Access in MD Record](#admissions-access-in-md-record)
+- [Opt-out](#opt-out)
 
-**Author:** Matthew Davis
-
-**Source:** [Tango](https://app.tango.us/app/workflow/66704c80-9d2a-4e7a-afe2-6e54aed847aa?utm\_source=markdown\&utm\_medium=markdown\&utm\_campaign=workflow%20export%20links)
-
-***
-
-### Setup in Alma
-
-\#+begin\_html
+## Setup in Alma
 
 <details>
 
@@ -85,8 +40,6 @@ There are five tracks in this workflow, marked by # in the step title.
 
 ### Simple Deposit Track
 
-\#+begin\_html
-
 <details>
 
 <summary>Click for Simple Deposit</summary>
@@ -110,8 +63,6 @@ Confirm the approval and move on to the next deposit. ![Step 9 screenshot](https
 </details>
 
 ### Missing/Incomplete Title
-
-\#+begin\_html
 
 <details>
 
@@ -175,8 +126,6 @@ Move on to the next items to approve. ![Step 23 screenshot](https://images.tango
 
 ### Conflicting Access Rights Statements
 
-\#+begin\_html
-
 <details>
 
 <summary>Click for conflicting Access Rights Statements</summary>
@@ -210,8 +159,6 @@ The status for the deposit now reads "Returned" ![Step 29 screenshot](https://im
 </details>
 
 ### Admissions Access in MD Record
-
-\#+begin\_html
 
 <details>
 
@@ -276,7 +223,5 @@ If the deposit has "Opt-out" then we'll need to update the access rights stateme
 **Click on Approve**
 
 <img src="https://images.tango.us/public/screenshot_4396f1f5-3b2b-413b-a1a9-d22bf01eee5b?crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.9030&#x26;fp-y=0.1178&#x26;fp-z=2.8565&#x26;w=1200&#x26;mark-w=0.2&#x26;mark-pad=0&#x26;mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&#x26;ar=2880%3A1358" alt="Step 43 screenshot" data-size="original">
-
-
 
 </details>
