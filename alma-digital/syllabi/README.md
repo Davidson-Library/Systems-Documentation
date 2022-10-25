@@ -2,7 +2,7 @@
 
 ## Description
 
-Davidson College Library collects course syllabi through user-deposits in Alma. This empowers users in the metadata creation process and it alleviates processing time for library workers. Alma Digital (know as Digital Davidson) is a centralized place for current students, faculty, and staff to view past syllabi for a variety of purposes, e.g., curriculum assessment, text analysis, course planning, and accreditation. This section of the documentation is intended for those processing syllabi in Alma (library workers). 
+Davidson College Library collects course syllabi through user-deposits in Alma. This empowers users in the metadata creation process and it alleviates processing time for library workers. Alma Digital (know as Digital Davidson) is a centralized place for current students, faculty, and staff to view past syllabi for a variety of purposes, e.g., curriculum assessment, text analysis, course planning, and accreditation. This section of the documentation is intended for those processing syllabi in Alma (library workers).
 
 ## Table of Contents (TOC)
 
