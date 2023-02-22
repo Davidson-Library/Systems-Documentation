@@ -14,11 +14,7 @@ Below is a contradictory example of access statements. The instructor selected b
 
 **Copy/Paste text below into text area in Alma**
 
-Thanks for your syllabus deposit. We need clarification on the access you want to provide for viewing. Your syllabus can only have one check box checked for access.
-
-[https://davidson.alma.exlibrisgroup.com/deposit/01DCOLL\_INST\&auth=SAML](https://davidson.alma.exlibrisgroup.com/deposit/01DCOLL\_INST\&auth=SAML)
-
-After logging in with the above link, please click the Edit button on your syllabus deposit, select one of the two checkboxes for access, then click submit. If you have any questions, contact [digitallearning@davidson.edu](mailto:digitallearning@davidson.edu)
+```Thanks for your syllabus deposit. We need clarification on the access you want to provide for viewing. Your syllabus can only have one check box checked for access. https://davidson.alma.exlibrisgroup.com/deposit/01DCOLL\_INST\&auth=SAML After logging in with the above link, please click the Edit button on your syllabus deposit, select one of the two checkboxes for access, then click submit. If you have any questions, contact digitallearning@davidson.edu```
 
 ![Step 27 screenshot](https://images.tango.us/public/edited\_image\_01057703-1b9d-4c24-85f1-bbbc95cdcf72?crop=focalpoint\&fit=crop\&fp-x=0.5252\&fp-y=0.2629\&fp-z=1.3974\&w=1200\&mark-w=0.2\&mark-pad=0\&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n\&ar=2880%3A1358)
 
