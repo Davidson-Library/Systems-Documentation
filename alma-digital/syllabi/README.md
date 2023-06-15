@@ -6,15 +6,25 @@ Davidson College Library collects course syllabi through user-deposits in Alma. 
 
 ## Table of Contents (TOC)
 
-There are five tracks in this workflow. You can use the TOC to navigate around or click through each page separately with the ["Next" button](https://davidson-college-library.gitbook.io/systems-documentation/alma-digital/syllabi/simple-deposits) at the bottom of each page. Before diving into each track, let's get set up in Alma.
+There are two configuration/admin files here [Syllabi Process Configuration](/syllabi/Syllabi-Process-Configurations.md) and [Bulk Download and Renaming Process](/syllabi/Bulk-Download-and-Renaming-Syllabi-Process.md). These are the first (setup) and last (preservation) steps, that sandwich the approval process. There are five tracks in approval process workflow. You can use the TOC to navigate around or click through each page separately with the ["Next" button](https://davidson-college-library.gitbook.io/systems-documentation/alma-digital/syllabi/simple-deposits) at the bottom of each page. Before diving into each track, let's get set up in Alma.
 
-- [Simple Deposit Track](#simple-deposit-track)
-- [Missing/Incomplete Title](#missingincomplete-title)
-- [Conflicting Access Rights Statements](#conflicting-access-rights-statements)
-- [Admissions Access in MD Record](#admissions-access-in-md-record)
-- [Opt-out](#opt-out)
+- [Syllabi Process Configuration](#syllabi-process-configuration)
+- [Approval Process](#approval-process)
+  - [Log in to Alma](#log-in-to-alma)
+  - [Simple Deposit Track](#simple-deposit-track)
+  - [Missing/Incomplete Title](#missingincomplete-title)
+  - [Conflicting Access Rights Statements](#conflicting-access-rights-statements)
+  - [Admissions Access in MD Record](#admissions-access-in-md-record)
+  - [Opt-out](#opt-out)
+- [Bulk Download and Renaming Process](#bulk-download-and-renaming-process)
 
-## Setup in Alma
+### Syllabi Process Configuration
+
+[Alma Configurations and Setup for Each Term](/syllabi/Syllabi-Process-Configurations.md)
+
+### Approval Process
+
+#### Log in to Alma
 
 <details>
 
@@ -38,7 +48,7 @@ There are five tracks in this workflow. You can use the TOC to navigate around o
 
 </details>
 
-### Simple Deposit Track
+#### Simple Deposit Track
 
 <details>
 
@@ -62,7 +72,7 @@ Confirm the approval and move on to the next deposit. ![Step 9 screenshot](https
 
 </details>
 
-### Missing/Incomplete Title
+#### Missing/Incomplete Title
 
 <details>
 
@@ -124,7 +134,7 @@ Move on to the next items to approve. ![Step 23 screenshot](https://images.tango
 
 </details>
 
-### Conflicting Access Rights Statements
+#### Conflicting Access Rights Statements
 
 <details>
 
@@ -158,7 +168,7 @@ The status for the deposit now reads "Returned" ![Step 29 screenshot](https://im
 
 </details>
 
-### Admissions Access in MD Record
+#### Admissions Access in MD Record
 
 <details>
 
@@ -196,7 +206,7 @@ Confirm the approval and move on to the next deposit. ![Step 37 screenshot](http
 
 </details>
 
-### Opt-out
+#### Opt-out
 
 <details>
 
@@ -225,3 +235,5 @@ If the deposit has "Opt-out" then we'll need to update the access rights stateme
 <img src="https://images.tango.us/public/screenshot_4396f1f5-3b2b-413b-a1a9-d22bf01eee5b?crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.9030&#x26;fp-y=0.1178&#x26;fp-z=2.8565&#x26;w=1200&#x26;mark-w=0.2&#x26;mark-pad=0&#x26;mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&#x26;ar=2880%3A1358" alt="Step 43 screenshot" data-size="original">
 
 </details>
+
+### [Bulk Download and Renaming Process](/syllabi/Bulk-Download-and-Renaming-Syllabi-Process.md)
