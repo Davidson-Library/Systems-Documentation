@@ -46,7 +46,7 @@ Attach the thumbnail `.png` under the new sub-collection's General tab and Save.
 
 Navigate to the Resources/Deposit/Manage Deposit Profiles
 
-![Update Default Collection in Deposit Profile](syllabi/help_files/Add_Sub_Collection_Deposit_Profile.png)
+![Update Default Collection in Deposit Profile](syllabi/help_files/Add_Sub_Collection_Deposit_Profile.png)*Update Default Collection in Deposit Profile*  
 
 Select the "Submit your Syllabus Here" profile
 
