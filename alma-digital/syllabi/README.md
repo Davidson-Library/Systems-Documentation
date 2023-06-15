@@ -8,7 +8,7 @@ Davidson College Library collects course syllabi through user-deposits in Alma. 
 
 There are two configuration/admin files here [Syllabi Process Configuration](/syllabi/Syllabi-Process-Configurations.md) and [Bulk Download and Renaming Process](/syllabi/Bulk-Download-and-Renaming-Syllabi-Process.md). These are the first (setup) and last (preservation) steps, that sandwich the approval process. There are five tracks in approval process workflow. You can use the TOC to navigate around or click through each page separately with the ["Next" button](https://davidson-college-library.gitbook.io/systems-documentation/alma-digital/syllabi/simple-deposits) at the bottom of each page. Before diving into each track, let's get set up in Alma.
 
-- [Syllabi Process Configuration](#syllabi-process-configuration)
+- [Syllabi Process Configuration and Setup in Alma for Each Term](#syllabi-process-configuration-and-setup-in-alma-for-each-term)
 - [Approval Process](#approval-process)
   - [Log in to Alma](#log-in-to-alma)
   - [Simple Deposit Track](#simple-deposit-track)
@@ -18,9 +18,7 @@ There are two configuration/admin files here [Syllabi Process Configuration](/sy
   - [Opt-out](#opt-out)
 - [Bulk Download and Renaming Process](#bulk-download-and-renaming-process)
 
-### Syllabi Process Configuration
-
-[Alma Configurations and Setup for Each Term](/syllabi/Syllabi-Process-Configurations.md)
+### [Syllabi Process Configuration and Setup in Alma for Each Term](/syllabi/Syllabi-Process-Configurations.md)
 
 ### Approval Process
 
