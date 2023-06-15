@@ -18,7 +18,7 @@ There are two configuration/admin files here [Syllabi Process Configuration](/sy
   - [Opt-out](#opt-out)
 - [Bulk Download and Renaming Process](#bulk-download-and-renaming-process)
 
-### [Syllabi Process Configuration and Setup in Alma for Each Term](/syllabi/Syllabi-Process-Configurations.md)
+### [Syllabi Process Configuration and Setup in Alma for Each Term](https://github.com/Davidson-Library/Systems-Documentation/blob/main/alma-digital/syllabi/Syllabi-Process-Configurations.md)
 
 ### Approval Process
 
@@ -234,4 +234,4 @@ If the deposit has "Opt-out" then we'll need to update the access rights stateme
 
 </details>
 
-### [Bulk Download and Renaming Process](/syllabi/Bulk-Download-and-Renaming-Syllabi-Process.md)
+### [Bulk Download and Renaming Process](https://github.com/Davidson-Library/Systems-Documentation/blob/main/alma-digital/syllabi/Bulk-Download-and-Renaming-Syllabi-Process.md)
