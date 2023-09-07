@@ -13,6 +13,8 @@ These procedures include 1. what needs to be done before the start a new term in
       - [Remove Deposit Form from Previous Term's Collection](#remove-deposit-form-from-previous-terms-collection)
       - [Select Deposit Form in New Term's Sub-collection](#select-deposit-form-in-new-terms-sub-collection)
       - [Update dcterms:dateSubmitted](#update-dctermsdatesubmitted)
+    - [Running Reports](#running-reports)
+      - [Edit Report in Alma Analytics](#edit-report-in-alma-analytics)
     - [Approval Process](#approval-process)
     - [Configuration Notes](#configuration-notes)
       - [Deposit Form](#deposit-form)
@@ -80,6 +82,28 @@ The date submitted is a hidden field that needs to be set up each term before de
 Change the "dcterms:dateSubmitted (dcterms:Period)" value to the current term, e.g., Fall 2023.
 
 ![Change Date Value](../syllabi/help_files/date-submit-value.png)*Change Date Value*
+
+### Running Reports
+
+#### Edit Report in Alma Analytics
+
+Open Alma Analytics > Catalog > Davidson College > Reports > Alma Digital >"Syllabi_Full_Received_List"
+
+![Syllabi Received List](help_files/report-creation.png)*Edit Report*  
+
+Select the Criteria tab to change the collection filter.
+
+![Filter Collection](help_files/report-creation-2.png)*Edit Collection Filter*  
+
+Swap the collection on the right with the one you want, e.g., Spring 2023 with Fall 2023.
+
+![Swap Collection for Filter](help_files/report-creation-3.png)*Swap Collections for Filter*  
+
+Click Ok twice to accept the filter. Then Select the Results tab to view the table. Export as Excel.
+
+![Export Data](help_files/report-creation-4.png)*Export Data to Excel*  
+
+Now you can drop that in Google Drive and share with whomever.
 
 ### Approval Process
 
