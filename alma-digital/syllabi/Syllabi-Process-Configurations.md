@@ -12,6 +12,7 @@ These procedures include 1. what needs to be done before the start a new term in
       - [Update Default Collection in Deposit Profile](#update-default-collection-in-deposit-profile)
       - [Remove Deposit Form from Previous Term's Collection](#remove-deposit-form-from-previous-terms-collection)
       - [Select Deposit Form in New Term's Sub-collection](#select-deposit-form-in-new-terms-sub-collection)
+      - [Update dcterms:dateSubmitted](#update-dctermsdatesubmitted)
     - [Approval Process](#approval-process)
     - [Configuration Notes](#configuration-notes)
       - [Deposit Form](#deposit-form)
@@ -69,6 +70,16 @@ Now you need to remove the deposit profile from the previous sub-collection just
 Finally, you need to add the deposit profile in the new term's sub-collection. After selecting the "Patron_Syllabi_Deposit_Form" make sure to save.
 
 ![New Sub-collection Default Form](../syllabi/help_files/Add_Sub_Collection_Form.png)*Select deposit form for new sub-collection*  
+
+#### Update dcterms:dateSubmitted
+
+The date submitted is a hidden field that needs to be set up each term before deposits start coming in. How to get there is covered below in [Deposit Form config](#deposit-form).
+
+![Edit Date Submitted](../syllabi/help_files/date-submit-edit.png)*Edit Date Submitted*  
+
+Change the "dcterms:dateSubmitted (dcterms:Period)" value to the current term, e.g., Fall 2023.
+
+![Change Date Value](../syllabi/help_files/date-submit-value.png)*Change Date Value*
 
 ### Approval Process
 
